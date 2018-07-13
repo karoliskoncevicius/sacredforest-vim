@@ -12,7 +12,7 @@ let g:colors_name='sacredforest'
 
 if &t_Co >= 256
 
-  set background=light
+  set background=dark
   hi Normal           ctermbg=239  ctermfg=229   cterm=NONE      guibg=#3C4C55 guifg=#FFEBC3   gui=NONE
 
   hi Comment          ctermbg=NONE ctermfg=243   cterm=NONE      guibg=NONE    guifg=#616c72   gui=NONE

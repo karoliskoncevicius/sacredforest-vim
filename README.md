@@ -9,7 +9,7 @@
 
 In addition you can inspect this theme at **vivify**:
 
-* [CLICK HERE](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_minimal.vim)
+* [CLICK HERE](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fsacredforest-vim%2Fmaster%2Fcolors%2Fsacredforest.vim)
 
 ### Installation ###
 
