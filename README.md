@@ -4,7 +4,7 @@
 
 ### Screenshots ###
 
-![]()
+![screenshot-r](https://i.imgur.com/znw5UJ0.png)
 
 In addition you can inspect this theme at **vivify**:
 
