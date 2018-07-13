@@ -43,7 +43,7 @@ if &t_Co >= 256
 
   hi Visual           ctermbg=110  ctermfg=239   cterm=NONE      guibg=#7fc1ca guifg=#3c4c55   gui=NONE
   hi VisualNOS        ctermbg=NONE ctermfg=NONE  cterm=UNDERLINE guibg=NONE    guifg=NONE      gui=UNDERLINE
-  hi IncSearch        ctermbg=185  ctermfg=239   cterm=NONE      guibg=#ddd668 guifg=#3c4c55   gui=NONE
+  hi IncSearch        ctermbg=220  ctermfg=239   cterm=NONE      guibg=#edc202 guifg=#3c4c55   gui=NONE
   hi Search           ctermbg=185  ctermfg=239   cterm=NONE      guibg=#ddd668 guifg=#3c4c55   gui=NONE
 
   hi StatusLine       ctermbg=243  ctermfg=229   cterm=NONE      guibg=#616c72 guifg=#ffebc3   gui=NONE
