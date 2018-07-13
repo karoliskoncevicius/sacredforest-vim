@@ -5,6 +5,7 @@
 ### Screenshots ###
 
 ![screenshot-r](https://i.imgur.com/znw5UJ0.png)
+![screenshot-diff](https://i.imgur.com/ABX08tR.png)
 
 In addition you can inspect this theme at **vivify**:
 
