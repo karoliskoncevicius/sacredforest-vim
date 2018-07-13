@@ -83,8 +83,8 @@ if &t_Co >= 256
   hi NonText          ctermbg=NONE ctermfg=243   cterm=NONE      guibg=NONE    guifg=#616c72   gui=NONE
 
   hi Cursor           ctermbg=229  ctermfg=NONE  cterm=NONE      guibg=#ffebc3 guifg=NONE      gui=NONE
-  hi CursorColumn     ctermbg=243  ctermfg=NONE  cterm=NONE      guibg=#616c72 guifg=NONE      gui=NONE
-  hi CursorLine       ctermbg=243  ctermfg=NONE  cterm=NONE      guibg=#616c72 guifg=NONE      gui=NONE
+  hi CursorColumn     ctermbg=241  ctermfg=NONE  cterm=NONE      guibg=#4c5866 guifg=NONE      gui=NONE
+  hi CursorLine       ctermbg=241  ctermfg=NONE  cterm=NONE      guibg=#4c5866 guifg=NONE      gui=NONE
 
   hi helpleadblank    ctermbg=NONE ctermfg=NONE  cterm=NONE      guibg=NONE    guifg=NONE      gui=NONE
   hi helpnormal       ctermbg=NONE ctermfg=NONE  cterm=NONE      guibg=NONE    guifg=NONE      gui=NONE
