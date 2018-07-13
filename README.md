@@ -19,8 +19,14 @@ With `vim-plug`:
 
 ```VimL
 Plug 'KKPMW/sacredforest-vim'
-set termguicolors " recommended to set termguicolors when using inside terminal
 colorscheme sacredforest
+```
+
+The colorscheme will work with 256 color terminals but the results might
+not be satisfactory. Therefore where available it is recommended to set `termguicolors`.
+
+```VimL
+set termguicolors
 ```
 
 ### Inspirations ###
