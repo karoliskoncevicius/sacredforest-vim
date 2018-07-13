@@ -1,6 +1,6 @@
 # Sacred Forest colorscheme for vim #
 
-![]()
+![sforest](https://i.imgur.com/BygNPLS.jpg)
 
 ### Screenshots ###
 
