@@ -17,10 +17,11 @@ Install manually or with your favorite plug-in manager and then load the theme.
 
 With `vim-plug`:
 
-    Plug 'KKPMW/sacredforest-vim'
-    colorscheme sacredforest
-
-When using in terminal it is recommended to `set termguicolors`
+```VimL
+Plug 'KKPMW/sacredforest-vim'
+set termguicolors " recommended to set termguicolors when using inside terminal
+colorscheme sacredforest
+```
 
 ### Inspirations ###
 
