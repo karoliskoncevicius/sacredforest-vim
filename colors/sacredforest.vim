@@ -139,6 +139,7 @@ hi link diffAdded          String
 hi link vimHiAttrib        Constant
 hi link vimParenSep        Normal
 hi link vimVar             Normal
+hi link vimFuncVar         Normal
 hi link vimMapMod          Identifier
 hi link vimMapModKey       Identifier
 hi link vimNotation        Identifier
