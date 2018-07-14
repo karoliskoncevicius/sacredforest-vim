@@ -10,7 +10,7 @@ endif
 
 let g:colors_name='sacredforest'
 
-if &t_Co >= 256
+if &t_Co >= 256 || has('gui_running')
 
   set background=dark
   hi Normal           ctermbg=239  ctermfg=229   cterm=NONE      guibg=#3C4C55 guifg=#FFEBC3   gui=NONE
