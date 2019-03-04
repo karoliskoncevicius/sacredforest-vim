@@ -25,7 +25,9 @@ hi Identifier       ctermbg=NONE ctermfg=10    cterm=NONE      guibg=NONE    gui
 hi Constant         ctermbg=NONE ctermfg=10    cterm=NONE      guibg=NONE    guifg=#a8ce93   gui=NONE
 hi Boolean          ctermbg=NONE ctermfg=10    cterm=NONE      guibg=NONE    guifg=#a8ce93   gui=NONE
 hi String           ctermbg=NONE ctermfg=10    cterm=NONE      guibg=NONE    guifg=#a8ce93   gui=NONE
-hi Title            ctermbg=NONE ctermfg=6     cterm=NONE      guibg=NONE    guifg=#c5d4dd   gui=NONE
+
+hi Title            ctermbg=NONE ctermfg=6     cterm=BOLD      guibg=NONE    guifg=#c5d4dd   gui=BOLD
+hi SpecialComment   ctermbg=NONE ctermfg=6     cterm=NONE      guibg=NONE    guifg=#c5d4dd   gui=NONE
 
 hi LineNr           ctermbg=NONE ctermfg=14    cterm=NONE      guibg=NONE    guifg=#616c72   gui=NONE
 hi CursorLineNr     ctermbg=NONE ctermfg=11    cterm=NONE      guibg=NONE    guifg=#ddd668   gui=NONE
