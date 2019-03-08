@@ -47,6 +47,19 @@ Or alternatively change your terminal colors to match these:
     color 14 616c72 # Bright Cyan
     color 15 b2a488 # Bright White
 
+### Contributions ###
+
+1. [**@sainhe**](https://github.com/sainnhe) (lightline support)
+
+Users of lightline plugin can add the following to their `vimrc`:
+
+```VimL
+let g:lightline = {
+      \ 'colorscheme': 'sacredforest',
+      \ }
+```
+
+
 
 ### Inspirations ###
 
