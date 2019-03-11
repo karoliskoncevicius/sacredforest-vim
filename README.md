@@ -49,7 +49,7 @@ Or alternatively change your terminal colors to match these:
 
 ### Contributions ###
 
-1. [**@sainhe**](https://github.com/sainnhe) (lightline support)
+1. [**@sainnhe**](https://github.com/sainnhe) (lightline support)
 
 Users of lightline plugin can add the following to their `vimrc`:
 
