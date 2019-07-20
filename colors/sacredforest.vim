@@ -90,6 +90,25 @@ hi CursorLine       ctermbg=8    ctermfg=NONE  cterm=NONE      guibg=#4c5866 gui
 hi helpleadblank    ctermbg=NONE ctermfg=NONE  cterm=NONE      guibg=NONE    guifg=NONE      gui=NONE
 hi helpnormal       ctermbg=NONE ctermfg=NONE  cterm=NONE      guibg=NONE    guifg=NONE      gui=NONE
 
+" Neovim terminal colors
+if has('nvim')
+  let g:terminal_color_0 = "#3c4c55"
+  let g:terminal_color_1 = "#db6c6c"
+  let g:terminal_color_2 = "#8eaf6b"
+  let g:terminal_color_3 = "#ffbf00"
+  let g:terminal_color_4 = "#3ba2cc"
+  let g:terminal_color_5 = "#907eb5"
+  let g:terminal_color_6 = "#c5d4dd"
+  let g:terminal_color_7 = "#ffebc3"
+  let g:terminal_color_8 = "#4c5866"
+  let g:terminal_color_9 = "#f88379"
+  let g:terminal_color_10 = "#a8ce93"
+  let g:terminal_color_11 = "#ddd668"
+  let g:terminal_color_12 = "#7fc1ca"
+  let g:terminal_color_13 = "#ae8fc1"
+  let g:terminal_color_14 = "#616c72"
+  let g:terminal_color_15 = "#b2a488"
+endif
 
 hi link Number             Constant
 hi link Character          Constant
