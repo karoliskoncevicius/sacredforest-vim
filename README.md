@@ -37,10 +37,10 @@ Or alternatively change your terminal colors to match these:
     color 4  3ba2cc # Blue
     color 5  907eb5 # Purple
     color 6  c5d4dd # Cyan
-    color 7  ffebc3 # White
+    color 7  e0d7c3 # White
     color 8  4c5866 # Bright Black
     color 9  f88379 # Bright Red
-    color 10 a8ce93 # Bright Green
+    color 10 94b380 # Bright Green
     color 11 ddd668 # Bright Yellow
     color 12 7fc1ca # Bright Blue
     color 13 ae8fc1 # Bright Purple
