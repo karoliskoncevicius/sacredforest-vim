@@ -9,7 +9,7 @@
 
 In addition you can inspect this theme at **vivify**:
 
-* [CLICK HERE](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fsacredforest-vim%2Fmaster%2Fcolors%2Fsacredforest.vim)
+* [CLICK HERE](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2Fkaroliskoncevicius%2Fsacredforest-vim%2Fmaster%2Fcolors%2Fsacredforest.vim)
 
 ### Installation ###
 
@@ -18,7 +18,7 @@ Install manually or with your favorite plug-in manager and then load the theme.
 With `vim-plug`:
 
 ```VimL
-Plug 'KKPMW/sacredforest-vim'
+Plug 'karoliskoncevicius/sacredforest-vim'
 colorscheme sacredforest
 ```
 
