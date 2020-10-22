@@ -59,6 +59,14 @@ let g:lightline = {
       \ }
 ```
 
+2. [**@rlue**](https://github.com/rlue) (airline support)
+
+Users of airline plugin can add the following to their `vimrc`:
+
+```VimL
+let g:airline_theme='sacredforest'
+```
+
 
 
 ### Inspirations ###
