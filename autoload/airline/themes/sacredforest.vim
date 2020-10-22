@@ -1,28 +1,27 @@
 " Adapted from Airline's default dark.vim theme.
-" vim: et ts=2 sts=2 sw=2 tw=80
 
 scriptencoding utf-8
 
 let g:airline#themes#sacredforest#palette = {}
-let s:airline_a_normal   = [ '#3c4c55', '#ffebc3',   0,   7 ]
-let s:airline_b_normal   = [ '#ffebc3', '#616c72',   7,  14 ]
-let s:airline_c_normal   = [ '#ffebc3', '#334048',   7,   8 ]
+let s:airline_a_normal   = [ '#3c4c55', '#e0d7c3',   0,   7 ]
+let s:airline_b_normal   = [ '#e0d7c3', '#616c72',   7,  14 ]
+let s:airline_c_normal   = [ '#e0d7c3', '#4c5866',   7,   8 ]
 
-let s:airline_a_insert = [ '#3c4c55', '#a8ce93',   0,  10 ]
-let s:airline_b_insert = [ '#ffebc3', '#616c72',   7,  14 ]
-let s:airline_c_insert = [ '#ffebc3', '#334048',   7,   8 ]
+let s:airline_a_insert   = [ '#3c4c55', '#94b380',   0,  10 ]
+let s:airline_b_insert   = [ '#e0d7c3', '#616c72',   7,  14 ]
+let s:airline_c_insert   = [ '#e0d7c3', '#4c5866',   7,   8 ]
 
-let s:airline_a_replace = [ '#3c4c55', '#ddd668',   0,  11 ]
-let s:airline_b_replace = [ '#ffebc3', '#616c72',   7,  14 ]
-let s:airline_c_replace = [ '#ffebc3', '#334048',   7,   8 ]
+let s:airline_a_replace  = [ '#3c4c55', '#ddd668',   0,  11 ]
+let s:airline_b_replace  = [ '#e0d7c3', '#616c72',   7,  14 ]
+let s:airline_c_replace  = [ '#e0d7c3', '#4c5866',   7,   8 ]
 
-let s:airline_a_visual = [ '#3c4c55', '#7fc1ca',   0,  12 ]
-let s:airline_b_visual = [ '#ffebc3', '#616c72',   7,  14 ]
-let s:airline_c_visual = [ '#ffebc3', '#334048',   7,   8 ]
+let s:airline_a_visual   = [ '#3c4c55', '#7fc1ca',   0,  12 ]
+let s:airline_b_visual   = [ '#e0d7c3', '#616c72',   7,  14 ]
+let s:airline_c_visual   = [ '#e0d7c3', '#4c5866',   7,   8 ]
 
-let s:airline_a_inactive = [ '#ffebc3', '#616c72',   7,  14 ]
-let s:airline_b_inactive = [ '#ffebc3', '#616c72',   7,  14 ]
-let s:airline_c_inactive = [ '#ffebc3', '#334048',   7,   8 ]
+let s:airline_a_inactive = [ '#e0d7c3', '#616c72',   7,  14 ]
+let s:airline_b_inactive = [ '#e0d7c3', '#616c72',   7,  14 ]
+let s:airline_c_inactive = [ '#e0d7c3', '#4c5866',   7,   8 ]
 
 let g:airline#themes#sacredforest#palette.normal =
       \ airline#themes#generate_color_map(
