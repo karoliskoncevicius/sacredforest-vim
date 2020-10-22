@@ -83,7 +83,7 @@ hi Todo             ctermbg=7    ctermfg=14    cterm=NONE      guibg=#e0d7c3 gui
 
 hi NonText          ctermbg=NONE ctermfg=14    cterm=NONE      guibg=NONE    guifg=#616c72   gui=NONE
 
-hi Cursor           ctermbg=7    ctermfg=NONE  cterm=NONE      guibg=#e0d7c3 guifg=NONE      gui=NONE
+hi Cursor           ctermbg=7    ctermfg=0     cterm=NONE      guibg=#e0d7c3 guifg=#3c4c55   gui=NONE
 hi CursorColumn     ctermbg=8    ctermfg=NONE  cterm=NONE      guibg=#4c5866 guifg=NONE      gui=NONE
 hi CursorLine       ctermbg=8    ctermfg=NONE  cterm=NONE      guibg=#4c5866 guifg=NONE      gui=NONE
 
